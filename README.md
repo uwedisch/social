@@ -22,6 +22,10 @@ The vulnerability affects the Paradox IP150S with firmware V5.02.058. To provoke
 
 If the firewall rules in the router are changed from REJECT to DROP, then the vulnerability is not detectable.
 
+### Researcher
+
+[Uwe Disch](https://github.com/uwedisch/)
+
 ### History
 
 2023-06-08: Created ticket [#170067](https://support.paradox.com/portal/en/ticket/580177000054202075) at Paradox support portal.
