@@ -30,6 +30,6 @@ If the firewall rules in the router are changed from REJECT to DROP, then the vu
 
 2023-06-08: Created ticket [#170067](https://support.paradox.com/portal/en/ticket/580177000054202075) at Paradox support portal.
 
-2023-06-17: Found ticket [#170067](https://support.paradox.com/portal/en/ticket/580177000054202075) has been closed from Paradox support with no feedback.
+2023-06-17: Found ticket [#170067](https://support.paradox.com/portal/en/ticket/580177000054202075) has been closed from Paradox support without any response.
 
 2023-06-17: Published Paradox IP150S Denial of Service Vulnerability.
