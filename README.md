@@ -35,7 +35,7 @@ None.
 
 2023-06-23: After a few status updates on the report, this was closed because ... _the described scenario cannot be scaled up to im­pact a large number of users or the platform as a whole._
 
-2023-06-23: Published the vulnerability Auth Bypass in Google Familiy Link.
+2023-06-23: Published the vulnerability [Auth Bypass in Google Familiy Link](https://issuetracker.google.com/issues/288188498).
 
 ## Paradox IP150S Denial of Service Vulnerability
 
