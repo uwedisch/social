@@ -2,6 +2,41 @@
 
 From time to time I find vulnerabilities. If this has not been published anywhere else, I publish it here.
 
+## Auth Bypass in Google Familiy Link
+
+This vulnerability is about bypassing restrictions on access rights in Google Familiy Link.
+
+If the daily limit in Google Family Link is reached, then the daily limit can be bypassed by removing the battery without shutting down the cell phone. The cell phone can continue to be used after a restart without respecting the daily limit of Google Family Link.
+
+The vulnerability has a score of 4.1 (Medium) according to CVSS v3.1. The vector string is: [CVSS:3.1/AV:P/AC:L/PR:L/UI:R/S:U/C:N/I:N/A:H](https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:P/AC:L/PR:L/UI:R/S:U/C:N/I:N/A:H).
+
+### Details
+
+This vulnerability was abused from my child that was looking endlessly Youtube videos.
+
+Versions of the installed apps:
+* Google Family Link: 1.86.0.0.419708555 1)
+* Google Family Link Manager: 1.0.0.257492102 2)
+* Android: 5.1 Lollipop MR1 (22)
+
+A short video of my child demonstrating the vulnerability.
+
+### Remedy
+
+None.
+
+### Researcher
+
+[Uwe Disch](https://github.com/uwedisch/)
+
+### History
+
+2023-06-20: Created the report [Auth Bypass in Google Familiy Link](https://bughunters.google.com/profile/5f5d3940-408e-4bf5-9ccc-66cb1461adcb/tracker/5088218895613952) at Google Bug Hunters
+
+2023-06-23: After a few status updates on the report, this was closed because ... _the described scenario cannot be scaled up to im­pact a large number of users or the platform as a whole._
+
+2023-06-23: Published the vulnerability Auth Bypass in Google Familiy Link.
+
 ## Paradox IP150S Denial of Service Vulnerability
 
 Special setup of the router rsp. firewall connecting the Paradox IP150S to the internet leads to a denial of service because of firmware restart.
