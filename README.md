@@ -19,7 +19,7 @@ Versions of the installed apps:
 * Google Family Link Manager: 1.0.0.257492102 2)
 * Android: 5.1 Lollipop MR1 (22)
 
-A short video of my child demonstrating the vulnerability.
+[A short video of my child demonstrating the vulnerability](https://drive.google.com/file/d/1fJreqkl_-E_ZR-QxdjBOTWchoq8Xa5z7/view?usp=drive_link).
 
 ### Remedy
 
