@@ -2,6 +2,46 @@
 
 From time to time I find vulnerabilities. If this has not been published anywhere else, I publish it here.
 
+## Cooperativa Ñanduti: Never trust Feelings
+
+This vul­ner­a­bi­li­ty is about a suc­cess­ful Man-in-the-Middle attack of the Android app Cooperativa Ñanduti with complete loss of confidentiality and integrity.
+
+Because of unencrypted HTTP and JSON communication of the Android app Cooperativa Ñanduti it's possbilbe to steal password hashes and change data.
+
+The vulnerability has a score of 8.1 (High) according to CVSS v3.1. The vector string is: [CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N](https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N).
+
+### Details
+
+The current release of the app Cooperativa Ñanduti as of today is from 2021-09-10.
+
+
+
+### Remedy
+
+None.
+
+### Researcher
+
+[Uwe Disch](https://github.com/uwedisch/)
+
+### History
+
+2022-01-13: Wrote a Telegram Message to the vice president of Cooperativa Ñanduti and explained the vulnerability.
+
+2022-01-13: Response thru the vice president of Cooperativa Ñanduti that they will work on the issue.
+
+2022-01-29: Get in contact with the vice president of Cooperativa Ñanduti and asked for a feedback.  The developer had deflected and did not address the question.
+
+2023-07-19: Phone call with the vice president of Cooperativa Ñanduti and explaining the vulnerability.  Made the recommendation of quitting the service because of the small user base.
+
+2023-07-20: Phone call with the vice president of Cooperativa Ñanduti and explaining the vulnerability once more.  They are in consideration of quitting the service or fixing app and service.
+
+2023-07-20: Wrote a Telegram message to the vice president of Cooperativa Ñanduti with minimum required changes in the app and service for beeing secure.  Mentioned also the needed effort in maintaining such kind of app and service.
+
+2023-07-21: Feedback thru the vice president of Cooperativa Ñanduti.  They will quit the service today.
+
+2023-07-21: Published the vulnerability in the Android app of Cooperativa Ñanduti.
+
 ## Auth Bypass in Google Familiy Link
 
 This vulnerability is about bypassing restrictions on access rights in Google Familiy Link.
