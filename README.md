@@ -14,7 +14,11 @@ The vulnerability has a score of 8.1 (High) according to CVSS v3.1. The vector s
 
 The current release of the app Cooperativa Ñanduti as of today is from 2021-09-10.
 
+![tshark trace anonymized](https://github.com/uwedisch/social/assets/24267159/b9301411-5e8c-474f-922d-539f7bb911a7)
 
+![Cooperativa Ñanduti anonymized](https://github.com/uwedisch/social/assets/24267159/3f38780d-94d4-49d1-87fa-47efb3ae8f5a) ![Cooperativa Ñanduti anonymized MitM successful](https://github.com/uwedisch/social/assets/24267159/0846aee2-22da-42d3-8ee5-cc4ed8267489)
+
+"Ñanduti" is Guarani and means "feelings".
 
 ### Remedy
 
